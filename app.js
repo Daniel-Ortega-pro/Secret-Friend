@@ -55,6 +55,10 @@ const agregarAmigo = function () {
   //------------------------------------------------------------------------------
 
   winner = ``;
+
+
+
+  document.getElementById("amigo").focus();
 };
 
 const sortearAmigo = function () {
